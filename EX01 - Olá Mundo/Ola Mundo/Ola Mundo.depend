@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655220699 source:c:\users\usuário\desktop\dev\exercicios c\ex01 - olá mundo\ola mundo\main.c
+	<stdio.h>
+	<stdlib.h>
+
