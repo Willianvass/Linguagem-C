@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655306572 source:c:\users\usuário\desktop\dev\exercicios c\aula 01 - exercicios\imprimir nome\imprimir nome\main.c
+	<stdio.h>
+	<stdlib.h>
+
